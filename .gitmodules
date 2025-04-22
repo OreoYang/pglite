@@ -1,3 +1,6 @@
 [submodule "postgres-pglite"]
 	path = postgres-pglite
 	url = git@github.com:electric-sql/postgres-pglite.git
+[submodule "ivorysql-lite"]
+	path = ivorysql-lite
+	url = git@github.com:OreoYang/IvorySQL-pglite.git
